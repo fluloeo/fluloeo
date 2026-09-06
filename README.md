@@ -6,7 +6,7 @@
 
 | | Стек |
 |---|---|
-| **[DocIQ](https://github.com/fluloeo/docrag)** — RAG-пайплайн для PDF: гибридный поиск (BM25 + dense + RRF), reranking, локальный инференс | Python |
 | **[ArXiv Research Agent](https://github.com/fluloeo/ArxivArticlesResearchAgent)** — LLM-агент для обзоров научных статей и research Q&A по arXiv | Python, LangGraph |
 | **[Sales Drift Prediction 🥈](https://github.com/fluloeo/hackathon_drift)** — хакатон: прогноз продаж в условиях дрейфа данных, 2 место | CatBoost, Optuna |
-| **[Faith Bench](https://github.com/fluloeo/faith)** — бенчмарк faithfulness LLM | Jupyter |
+| **[DocIQ](https://github.com/fluloeo/docrag)** — RAG-пайплайн для PDF: гибридный поиск (BM25 + dense + RRF), reranking, локальный инференс | Python |
+| **[Faith Bench](https://github.com/fluloeo/faith)** — воспроизведение SPD-Faith Bench | Jupyter |
