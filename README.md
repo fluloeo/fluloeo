@@ -2,8 +2,9 @@
 `Студент магистратуры по AI в 💅HSE💅`
 <img align="right" width="200" alt="daf0e60725734d1a57e8968fea60efc9" src="https://github.com/user-attachments/assets/97b5451b-0824-4eac-88f7-3a7448138168" />
 
-|---|
-| **[ArXiv Research Agent](https://github.com/fluloeo/ArxivArticlesResearchAgent)** — LLM-агент для обзоров научных статей и research Q&A по arXiv | 
-| **[Sales Drift Prediction 🥈](https://github.com/fluloeo/hackathon_drift)** — хакатон: прогноз продаж в условиях дрейфа данных, 2 место | 
-| **[DocIQ](https://github.com/fluloeo/docrag)** — RAG-пайплайн для PDF: гибридный поиск (BM25 + dense + RRF), reranking, локальный инференс |
-| **[Faith Bench](https://github.com/fluloeo/faith)** — воспроизведение SPD-Faith Bench | 
+### Проекты
+- **[ArXiv Research Agent](https://github.com/fluloeo/ArxivArticlesResearchAgent)** — LLM-агент для обзоров научных статей и research Q&A по arXiv
+- **[Sales Drift Prediction 🥈](https://github.com/fluloeo/hackathon_drift)** — хакатон: прогноз продаж в условиях дрейфа данных, 2 место
+- **[DocIQ](https://github.com/fluloeo/docrag)** — RAG-пайплайн для PDF: гибридный поиск (BM25 + dense + RRF), reranking, локальный инференс
+- **[Faith Bench](https://github.com/fluloeo/faith)** — воспроизведение SPD-Faith Bench
+
