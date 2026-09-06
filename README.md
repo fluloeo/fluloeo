@@ -1,6 +1,7 @@
+
 `ML / NLP Engineer. Разрабатываю системы на базе LLM: работаю с обработкой документов, поиском, дообучением моделей и оценкой их качества.`
 `Студент магистратуры по AI в 💅HSE💅`
-<img align="right" width="200" alt="daf0e60725734d1a57e8968fea60efc9" src="https://github.com/user-attachments/assets/97b5451b-0824-4eac-88f7-3a7448138168" />
+<img align="right" width="200"  alt="f4b444e4fbdcd6c8f0d051ad1a1540ee" src="https://github.com/user-attachments/assets/a92d24a4-f5d9-488f-aab3-9ef2203222eb" />
 
 ### Проекты
 - **[ArXiv Research Agent](https://github.com/fluloeo/ArxivArticlesResearchAgent)** — LLM-агент для обзоров научных статей и research Q&A по arXiv
